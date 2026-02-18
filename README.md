@@ -8,7 +8,6 @@ I build tools that give AI agents real capabilities — memory systems, security
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin_Dev-blueviolet?style=flat-square&logo=anthropic)](https://github.com/hlsitechio/claude-memory)
 [![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=flat-square)](https://modelcontextprotocol.io)
-[![Website](https://img.shields.io/badge/rainkode.io-Portfolio-black?style=flat-square&logo=firefox)](https://rainkode.io)
 
 </div>
 
