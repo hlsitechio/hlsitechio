@@ -50,8 +50,11 @@ Web Apps          ████████████░░░░░░░░  
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlsitechio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlsitechio&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hlsitechio&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlsitechio&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
