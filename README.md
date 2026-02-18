@@ -30,7 +30,6 @@ Web Apps          ████████████░░░░░░░░  
 |---------|-------------|
 | [**claude-memory**](https://github.com/hlsitechio/claude-memory) | Persistent M/C/I memory for Claude Code — survives compacts, crashes, session restarts. Available as a plugin. |
 | [**Shellockolm**](https://github.com/hlsitechio/Shellockolm-AI-CLI-MCP-Scanner) | AI-powered security scanner — CVE detection, SBOM analysis, supply chain security |
-| [**d3bugr-gateway**](https://github.com/hlsitechio/d3bugr-gateway) | Unified API gateway for 199+ security tools via MCP |
 | [**CyberSleuth**](https://github.com/hlsitechio/CyberSleuth) | OSINT & information gathering toolkit |
 | [**NVD-MCP**](https://github.com/hlsitechio/NVD-MCP-NODEJS) | NVD vulnerability database as an MCP server |
 
@@ -47,10 +46,6 @@ Web Apps          ████████████░░░░░░░░  
 </p>
 
 ### Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlsitechio&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" width="60%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlsitechio&theme=tokyonight&hide_border=true" width="55%" />
