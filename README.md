@@ -33,7 +33,6 @@ Web Apps          ████████████░░░░░░░░  
 | [**claude-cast**](https://github.com/hlsitechio/claude-cast) | 70 AI personality agents — Gordon Ramsay reviews your code, Gandalf blocks your PRs, Hodor guards the door. |
 | [**Shellockolm**](https://github.com/hlsitechio/Shellockolm-AI-CLI-MCP-Scanner) | AI-powered security scanner — CVE detection, SBOM analysis, supply chain security |
 | [**CyberSleuth**](https://github.com/hlsitechio/CyberSleuth) | OSINT & information gathering toolkit |
-| [**NVD-MCP**](https://github.com/hlsitechio/NVD-MCP-NODEJS) | NVD vulnerability database as an MCP server |
 
 ### Tech
 
