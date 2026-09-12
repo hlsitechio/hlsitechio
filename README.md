@@ -2,7 +2,7 @@
 
 # Hey, I'm Hubert !
 
-**AI Tool Builder | MCP Developer | Open Source**
+**AI Tool Builder | MCP Developer | Open Source  | LLM Skills | AI Tools**
 
 I build tools that give AI agents real capabilities — memory systems, security scanners, and developer infrastructure.
 
