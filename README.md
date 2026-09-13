@@ -6,9 +6,6 @@
 
 I build tools that give AI agents real capabilities — memory systems, security scanners, and developer infrastructure.
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin_Dev-blueviolet?style=flat-square&logo=anthropic)](https://github.com/hlsitechio/claude-memory)
-[![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=flat-square)](https://modelcontextprotocol.io)
-
 </div>
 
 ---
