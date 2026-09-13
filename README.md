@@ -29,7 +29,6 @@ Web Apps          ████████████░░░░░░░░  
 | [**claude-crew**](https://github.com/hlsitechio/claude-crew) | 15 production AI agent personas for Claude Code — code reviewer, security auditor, DevOps, and more. Drop-in experts. |
 | [**claude-cast**](https://github.com/hlsitechio/claude-cast) | 70 AI personality agents — Gordon Ramsay reviews your code, Gandalf blocks your PRs, Hodor guards the door. |
 | [**Shellockolm**](https://github.com/hlsitechio/Shellockolm-AI-CLI-MCP-Scanner) | AI-powered security scanner — CVE detection, SBOM analysis, supply chain security |
-| [**CyberSleuth**](https://github.com/hlsitechio/CyberSleuth) | OSINT & information gathering toolkit |
 
 ### Tech
 
@@ -39,7 +38,6 @@ Web Apps          ████████████░░░░░░░░  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <a href="https://lovable.dev/@hlsitech"><img src="https://img.shields.io/badge/Lovable.dev-FF6B6B?style=flat-square&logo=heart&logoColor=white" /></a>
 </p>
 
 ### Stats
