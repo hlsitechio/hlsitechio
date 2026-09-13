@@ -54,16 +54,44 @@ CLIs, dashboards and skill packs that delete glue code instead of adding it.
 
 ### Featured projects
 
+<a href="https://memorify.dev"><img src="assets/memorify.jpg" width="100%" alt="Memorify — one gateway, every agent, zero code changes" /></a>
+
+**[Memorify](https://memorify.dev)** — Agent memory as infrastructure. One MCP endpoint, every agent, zero code changes.
+`TypeScript` `Neon` `Netlify` `Clerk`
+
+<a href="https://github.com/hlsitechio/agentic-swarm"><img src="assets/agentic-swarm.jpg" width="100%" alt="Agentic Swarm — AI agents united intelligence" /></a>
+
+**[agentic-swarm](https://github.com/hlsitechio/agentic-swarm)** — 60 specialist engineering agents in 10 teams. One command into any AI CLI.
+`Python`
+
+<a href="https://github.com/hlsitechio/Shellockolm-AI-CLI-MCP-Scanner"><img src="assets/shellockolm.jpg" width="100%" alt="Shellockolm — AI CLI MCP scanner" /></a>
+
+**[Shellockolm](https://github.com/hlsitechio/Shellockolm-AI-CLI-MCP-Scanner)** — AI security scanner: MCP endpoint discovery, CVE detection, SBOM analysis, risk scoring.
+`Python` `Security`
+
+<a href="https://github.com/hlsitechio/Omarchy-4-AI-Agent-MCP"><img src="assets/omarchy.jpg" width="100%" alt="Omarchy MCP — full desktop control for any LLM" /></a>
+
+**[Omarchy MCP](https://github.com/hlsitechio/Omarchy-4-AI-Agent-MCP)** — Full control of an Omarchy Linux desktop for any LLM — themes, tiling, screenshots, audio.
+`TypeScript` `Linux`
+
+<details>
+<summary><b>More projects</b> — memory engine, prompt hygiene, dev cards, commerce tools</summary>
+<br/>
+
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **[Memorify](https://memorify.dev)** | Agent memory as infrastructure — one MCP endpoint, every agent, zero code changes | `TypeScript` `Neon` `Netlify` |
-| **[agentic-swarm](https://github.com/hlsitechio/agentic-swarm)** | 60 specialist engineering agents in 10 teams — one command into any AI CLI | `Python` |
-| **[Shellockolm](https://github.com/hlsitechio/Shellockolm-AI-CLI-MCP-Scanner)** | AI security scanner — CVE detection, SBOM analysis, supply-chain checks | `Python` |
-| **[ctxscrub](https://github.com/hlsitechio/ctxscrub)** | Scrub secrets and strip bloat before pasting a prompt into an LLM | `TypeScript` |
 | **[Memory Engine](https://github.com/hlsitechio/Memory-Engine-Persistent-Memory-for-AI-Coding-Agents)** | Persistent M/C/I memory for coding agents — survives crashes and restarts | `Python` |
-| **[Omarchy MCP](https://github.com/hlsitechio/Omarchy-4-AI-Agent-MCP)** | Full control of an Omarchy Linux desktop for any LLM — themes, tiling, audio | `TypeScript` |
+| **[ctxscrub](https://github.com/hlsitechio/ctxscrub)** | Scrub secrets and strip bloat before pasting a prompt into an LLM | `TypeScript` |
+| **[pinpoint-mcp](https://github.com/hlsitechio/pinpoint-mcp)** | Screenshot capture + visual annotation MCP server (mss, Playwright, Tesseract) | `Python` |
+| **[claude-skills-security](https://github.com/hlsitechio/claude-skills-security)** | Defensive security audit skill packs, keyed by tech stack and audit domain | `Shell` |
+| **[M.I.C. agents](https://github.com/hlsitechio/mic-agents)** | Three-layer JSON profile format for agents: Memory, Intention, Context | `Python` |
+| **[risk-rush](https://github.com/hlsitechio/risk-rush-arcade-shmup)** | Old-school vertical shoot 'em up with arcane pilots and risk/reward upgrades | `TypeScript` |
+| **[Vibe Card](https://github.com/hlsitechio)** | Shareable glowing dev cards — profile, pinned repos, yearly glow grid | `React` |
+| **[crowbyte](https://github.com/hlsitechio/crowbyte)** | AI-powered cybersecurity terminal — 95+ tools, one window | `TypeScript` |
 
-<sub>**[→ all 24 public repositories](https://github.com/hlsitechio?tab=repositories)** &nbsp;·&nbsp; also building: **Vibe Card** (dev cards for vibe coders), Shopify & commerce tools, indie web experiments</sub>
+</details>
+
+<sub>**[→ all public repositories](https://github.com/hlsitechio?tab=repositories)**</sub>
 
 <!-- ══════════════════════ STACK ══════════════════════ -->
 
