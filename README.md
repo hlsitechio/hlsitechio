@@ -135,7 +135,8 @@ CLIs, dashboards and skill packs that delete glue code instead of adding it.
 
 **Building tools that make AI agents actually useful.**
 
-<img src="https://komarev.com/ghpvc/?username=hlsitechio&color=5a4d9e&style=flat-square&label=Profile+views" alt="Profile views" />
+<a href="https://github.com/hlsitechio/hlsitechio/actions/workflows/views.yml"><img src="assets/views.svg" width="320" alt="Profile views — from GitHub's own traffic API" /></a>
+<sub>rendered by this repo's own workflow from GitHub's traffic API — no third party, no tracker</sub>
 
 <details>
 <summary><sub>🏷️ Topics I work in</sub></summary>
